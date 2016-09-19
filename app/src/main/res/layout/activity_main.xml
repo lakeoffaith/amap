@@ -24,12 +24,6 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="marker"
-        android:onClick="goMarkerMap"
-        />
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
         android:text="正常"
         android:onClick="goNormalMap"
         />

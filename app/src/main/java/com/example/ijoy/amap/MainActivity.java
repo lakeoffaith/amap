@@ -23,10 +23,7 @@ public class MainActivity extends Activity {
         Intent intent=new Intent(this,MapOptionActivity.class);
         startActivity(intent);
     }
-    public void goMarkerMap(View view){
-        Intent intent =new Intent(this,MarkerActivity.class);
-        startActivity(intent);
-    }
+
 
     public void goNormalMap(View view){
         Intent intent=new Intent(this,NormalActivity.class);
